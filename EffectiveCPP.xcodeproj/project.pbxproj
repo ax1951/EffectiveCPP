@@ -10,6 +10,7 @@
 		50E5258328E7FBA100448557 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 50E5258228E7FBA100448557 /* main.cpp */; };
 		50E5258B28E7FBF400448557 /* Item2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 50E5258928E7FBF400448557 /* Item2.cpp */; };
 		50E5259128E8359300448557 /* Item3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 50E5258F28E8359300448557 /* Item3.cpp */; };
+		50E5259428E877D200448557 /* Item4.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 50E5259228E877D200448557 /* Item4.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,8 @@
 		50E5258A28E7FBF400448557 /* Item2.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Item2.hpp; sourceTree = "<group>"; };
 		50E5258F28E8359300448557 /* Item3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Item3.cpp; sourceTree = "<group>"; };
 		50E5259028E8359300448557 /* Item3.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Item3.hpp; sourceTree = "<group>"; };
+		50E5259228E877D200448557 /* Item4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Item4.cpp; sourceTree = "<group>"; };
+		50E5259328E877D200448557 /* Item4.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Item4.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +71,8 @@
 				50E5258A28E7FBF400448557 /* Item2.hpp */,
 				50E5258F28E8359300448557 /* Item3.cpp */,
 				50E5259028E8359300448557 /* Item3.hpp */,
+				50E5259228E877D200448557 /* Item4.cpp */,
+				50E5259328E877D200448557 /* Item4.hpp */,
 			);
 			path = EffectiveCPP;
 			sourceTree = "<group>";
@@ -130,6 +135,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				50E5259128E8359300448557 /* Item3.cpp in Sources */,
+				50E5259428E877D200448557 /* Item4.cpp in Sources */,
 				50E5258328E7FBA100448557 /* main.cpp in Sources */,
 				50E5258B28E7FBF400448557 /* Item2.cpp in Sources */,
 			);
