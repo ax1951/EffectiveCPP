@@ -6,9 +6,13 @@
 //
 
 #include <iostream>
+#include "Item2.hpp"
+#include "Item3.hpp"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
+    
+    testItem3();
     return 0;
 }
