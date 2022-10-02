@@ -12,6 +12,7 @@
 #include "Item5.hpp"
 #include "Item6.hpp"
 #include "Item7.hpp"
+#include "Item8.hpp"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
@@ -21,6 +22,7 @@ int main(int argc, const char * argv[]) {
     //testItem4();
     //testItem5();
     //testItem6();
-    testItem7();
+    //testItem7();
+    testItem8();
     return 0;
 }
