@@ -11,6 +11,7 @@
 #include "Item4.hpp"
 #include "Item5.hpp"
 #include "Item6.hpp"
+#include "Item7.hpp"
 
 int main(int argc, const char * argv[]) {
     // insert code here...
@@ -19,6 +20,7 @@ int main(int argc, const char * argv[]) {
     //testItem3();
     //testItem4();
     //testItem5();
-    testItem6();
+    //testItem6();
+    testItem7();
     return 0;
 }
