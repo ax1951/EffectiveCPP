@@ -10,6 +10,15 @@
 
 #include <stdio.h>
 
+class Widget {
+public:
+    Widget& operator=(const Widget& rhs);
+    
+    Widget& operator+=(const Widget& rhs);
+    
+    Widget& operator=(int rhs);
+};
+
 void testItem10();
 
 #endif /* Item10_hpp */
