@@ -17,7 +17,7 @@ public:
 };
 
 Transaction::Transaction() {
-    //logTransaction();
+    logTransaction();
     // signal SIGABRT: Pure virtual function called!
     // Call to pure virtual member function 'logTransaction' has undefined behavior; overrides of 'logTransaction' in subclasses are not available in the constructor of 'Transaction'
 }
